@@ -1,0 +1,19 @@
+# Compilados
+*.class
+*.jar
+
+# Pastas de build
+/out/
+/build/
+
+# Configurações de IDEs
+/.idea/
+*.iml
+
+# Logs e banco
+*.log
+*.db
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
