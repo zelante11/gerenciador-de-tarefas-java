@@ -5,10 +5,16 @@
 package pacote;
 
 import java.util.List;
+import res.JavaSqlite;
 
 /**
  *
  * @author admin
  */
-public class TaskMaster {    
+public class TaskMaster {
+    public static void main(String[] args) {
+        JavaSqlite sq = new JavaSqlite();
+        
+        sq.selectAll();
+    }
 }

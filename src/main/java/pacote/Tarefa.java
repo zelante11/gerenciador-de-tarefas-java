@@ -74,7 +74,4 @@ public class Tarefa {
     
 /*Metodos*/
     
-    public void Create(){
-        
-    }
 }
